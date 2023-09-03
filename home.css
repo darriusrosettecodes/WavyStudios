@@ -28,7 +28,7 @@
     color: white;
 }
 .main{
-    background: linear-gradient(rgba(10, 6, 24, 0.7), rgba(17, 4, 24, 0.7)), url('background2.jpg');
+    background: linear-gradient(rgba(10, 6, 24, 0.7), rgba(17, 4, 24, 0.7)), url('background1.jpg');
     height: 100vh;
     background-position: center;
     background-size: cover;
