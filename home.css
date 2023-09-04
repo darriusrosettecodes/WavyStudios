@@ -41,9 +41,9 @@
     transform: translate(-50%);
     color: white;
     animation-name: maincont;
-    animation-duration: 3s;
+    animation-duration: 2s;
     animation-timing-function: ease;
-    animation-fill-mode: fowards;
+    animation-fill-mode: forwards;
 
 }
 @keyframes maincont {
@@ -51,7 +51,7 @@
         top: 50%;
     }
     to{
-        top: 45%;
+        top: 40%;
     }
 }
 .maincont h1{
